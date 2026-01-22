@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : # "Earth"
-  employer         : "Department of Political Science, University of Pittsburgh"
+  employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "aala[dot]abdelgadir(at)pitt[dot]edu" 
+  email            : # "aala[dot]abdelgadir(at)pitt[dot]edu" 
 
   # Academic websites
   academia         : # URL
