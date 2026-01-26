@@ -1,11 +1,29 @@
 ---
 layout: single
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
-## University of Pittsburgh
+/* Replace bullets with dashes on teaching page */
+.page__content ul {
+  list-style: none;
+  padding-left: 1.2em;
+}
+
+.page__content ul li {
+  position: relative;
+  margin-bottom: 0.4em;
+}
+
+.page__content ul li::before {
+  content: "–";
+  position: absolute;
+  left: -1.2em;
+}
+
+
+### University of Pittsburgh
 
 **Undergraduate**
 - Introduction to African Politics [[Syllabus](/files/african-politics.pdf)]
