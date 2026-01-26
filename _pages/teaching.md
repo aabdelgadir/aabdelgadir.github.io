@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 
-### Undergraduate
+### Undergraduate courses:
 - Introduction to African Politics [[Syllabus](/files/african-politics.pdf)]
 - Multiculturalism and Integration [[syllabus](/files/multicult-integration.pdf)]
 
 
-### Graduate
+### Graduate courses:
 - Empirical Methods of Research [[Syllabus](/files/emp-research.pdf)]
