@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* Fix sidebar avatar: force perfect circle */
+.author__avatar {
+  width: 140px;        /* size of the avatar container */
+  height: 140px;
+  border-radius: 50%;  /* ensures circle */
+  overflow: hidden;    /* crop any extra */
+}
+
+.author__avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   /* image fills container without stretching */
+}
