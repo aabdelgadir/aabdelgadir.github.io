@@ -23,7 +23,7 @@ repository               : "aabdelgadir/aabdelgadir.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "aala_avatar.jpg"
+  avatar           : "aala_avatar.png"
   name             : "Aala Abdelgadir"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
