@@ -14,7 +14,7 @@ author_profile: true
 
 ### Working Papers:
 
-[Hate Crimes and Identity of Young Muslims in Europe](https://osf.io/preprints/osf/9ekt4_v2) (with Vasiliki Fouka). [[PDF]](/files/hate_crimes_identity.pdf)
+[Hate Crimes and Identity of Young Muslims in Europe]([url](https://osf.io/preprints/osf/9ekt4_v2)) (with Vasiliki Fouka). [[PDF]](/files/hate_crimes_identity.pdf)
 
 Training the Vanguard: How Arab-educated religious elites catalyzed the institutionalization of Salafism in Africa**. 
 - Honorable Mention of the 2025 Sage Best Paper of the APSA Comparative Politics Section
