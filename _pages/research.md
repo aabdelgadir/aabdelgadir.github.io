@@ -17,14 +17,14 @@ author_profile: true
 
 [Hate Crimes and Identity of Young Muslims in Europe]((https://osf.io/preprints/osf/9ekt4_v2)) (with Vasiliki Fouka). [[PDF]](/files/hate_crimes_identity.pdf)
 
-Training the Vanguard: How Arab-educated religious elites catalyzed the institutionalization of Salafism in Africa.
+Training the Vanguard: How Arab-educated Religious Elites Catalyzed the Institutionalization of Salafism in Africa.
 <span class="award">— Honorable Mention, 2025 Sage Best Paper of the APSA Comparative Politics Section</span>
 
 Economic Shocks and Religious Messaging: Evidence from Turkey’s Friday Sermons (with Ekin Dursun).
 
 Islamic Law and Women’s Education: Evidence from Northern Nigeria.
 
-Salafism and Politics: Examining the influence of religious elites in Uganda.
+Salafism and Politics: Examining the Influence of Religious Elites in Uganda.
 
 European Accession and Migrant Integration: The Case of Guestworkers in West Germany.
 
