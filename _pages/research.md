@@ -20,7 +20,10 @@ Training the Vanguard: How Arab-educated religious elites catalyzed the institut
 - Honorable Mention of the 2025 Sage Best Paper of the APSA Comparative Politics Section
 
 Economic Shocks and Religious Messaging: Evidence from Turkey’s Friday Sermons (with Ekin Dursun).
+
 Islamic Law and Women’s Education: Evidence from Northern Nigeria.
+
 Salafism and Politics: Examining the influence of religious elites in Uganda.
+
 European Accession and Migrant Integration: The Case of Guestworkers in West Germany.
 
