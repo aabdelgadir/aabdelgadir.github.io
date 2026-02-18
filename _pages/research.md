@@ -7,8 +7,10 @@ author_profile: true
 
 ### Journal Articles:
 
-[Political Secularism and Muslim Integration in the West: The Effects of the French Headscarf Ban]([url](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/political-secularism-and-muslim-integration-in-the-west-assessing-the-effects-of-the-french-headscarf-ban/2934B2DD5336FF53B8881F3F0C506B41)), *American Political Science Review*, (with Vasiliki Fouka), 114(3), August 2020, pp. 707-723. [[PDF]](/files/secularism_french_ban.pdf) [[Response to Maurin and Navarette (2023)]](/files/secularism_french_ban_response.pdf)  
+- [Political Secularism and Muslim Integration in the West: The Effects of the French Headscarf Ban](https://www.cambridge.org/...)
+  *American Political Science Review*, (with Vasiliki Fouka), 114(3), August 2020, pp. 707-723. [[PDF]](/files/secularism_french_ban.pdf) [[Response to Maurin and Navarette (2023)]](/files/secularism_french_ban_response.pdf)
   - Co-winner of the 2021 Best Article Award of the APSA Migration and Citizenship Section
+
 
 ---
 
